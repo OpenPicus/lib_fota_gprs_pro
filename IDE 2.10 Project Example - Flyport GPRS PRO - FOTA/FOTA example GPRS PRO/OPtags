@@ -1,0 +1,87 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.8	//
+APN_SERV_NAME	D:\OpenPicus\GitHub\lib_fota_gprs_pro\IDE 2.10 Project Example - Flyport GPRS PRO - FOTA\FOTA example GPRS PRO\taskFlyport.c	8;"	kind:d	line:8	file:
+APN_SETUP	D:\OpenPicus\GitHub\lib_fota_gprs_pro\IDE 2.10 Project Example - Flyport GPRS PRO - FOTA\FOTA example GPRS PRO\taskFlyport.c	/^	APN_SETUP = 0,$/;"	kind:e	line:23	enum:__anon1	file:
+ActionStateMachine	D:\OpenPicus\GitHub\lib_fota_gprs_pro\IDE 2.10 Project Example - Flyport GPRS PRO - FOTA\FOTA example GPRS PRO\taskFlyport.c	/^}ActionStateMachine;$/;"	kind:t	line:32	typeref:enum:__anon1	file:
+EDS_FILE_SIZE	D:\OpenPicus\GitHub\lib_fota_gprs_pro\IDE 2.10 Project Example - Flyport GPRS PRO - FOTA\FOTA example GPRS PRO\Libs\ExternalLib\Include\FWUpdate_GPRS_PRO.h	13;"	kind:d	line:13
+FILE_COPY	D:\OpenPicus\GitHub\lib_fota_gprs_pro\IDE 2.10 Project Example - Flyport GPRS PRO - FOTA\FOTA example GPRS PRO\taskFlyport.c	/^    FILE_COPY = 4,$/;"	kind:e	line:27	enum:__anon1	file:
+FILE_DELETE	D:\OpenPicus\GitHub\lib_fota_gprs_pro\IDE 2.10 Project Example - Flyport GPRS PRO - FOTA\FOTA example GPRS PRO\taskFlyport.c	/^	FILE_DELETE = 5,$/;"	kind:e	line:28	enum:__anon1	file:
+FLASH_ERASE_SECTORS	D:\OpenPicus\GitHub\lib_fota_gprs_pro\IDE 2.10 Project Example - Flyport GPRS PRO - FOTA\FOTA example GPRS PRO\taskFlyport.c	/^	FLASH_ERASE_SECTORS$/;"	kind:e	line:31	enum:__anon1	file:
+FLASH_START_ADD	D:\OpenPicus\GitHub\lib_fota_gprs_pro\IDE 2.10 Project Example - Flyport GPRS PRO - FOTA\FOTA example GPRS PRO\Libs\ExternalLib\Include\FWUpdate_GPRS_PRO.h	14;"	kind:d	line:14
+FOTAEraseFlash	D:\OpenPicus\GitHub\lib_fota_gprs_pro\IDE 2.10 Project Example - Flyport GPRS PRO - FOTA\FOTA example GPRS PRO\Libs\ExternalLib\FWUpdate_GPRS_PRO.c	/^void FOTAEraseFlash()$/;"	kind:f	line:30
+FOTAEraseFlash	D:\OpenPicus\GitHub\lib_fota_gprs_pro\IDE 2.10 Project Example - Flyport GPRS PRO - FOTA\FOTA example GPRS PRO\Libs\ExternalLib\Include\FWUpdate_GPRS_PRO.h	/^void FOTAEraseFlash();$/;"	kind:p	line:28
+FOTA_EXECUTE	D:\OpenPicus\GitHub\lib_fota_gprs_pro\IDE 2.10 Project Example - Flyport GPRS PRO - FOTA\FOTA example GPRS PRO\taskFlyport.c	/^	FOTA_EXECUTE = 3,$/;"	kind:e	line:26	enum:__anon1	file:
+FOTA_INIT	D:\OpenPicus\GitHub\lib_fota_gprs_pro\IDE 2.10 Project Example - Flyport GPRS PRO - FOTA\FOTA example GPRS PRO\taskFlyport.c	/^	FOTA_INIT = 2,$/;"	kind:e	line:25	enum:__anon1	file:
+FTP_PASSWORD	D:\OpenPicus\GitHub\lib_fota_gprs_pro\IDE 2.10 Project Example - Flyport GPRS PRO - FOTA\FOTA example GPRS PRO\taskFlyport.c	6;"	kind:d	line:6	file:
+FTP_PORT	D:\OpenPicus\GitHub\lib_fota_gprs_pro\IDE 2.10 Project Example - Flyport GPRS PRO - FOTA\FOTA example GPRS PRO\taskFlyport.c	7;"	kind:d	line:7	file:
+FTP_SERV_NAME	D:\OpenPicus\GitHub\lib_fota_gprs_pro\IDE 2.10 Project Example - Flyport GPRS PRO - FOTA\FOTA example GPRS PRO\taskFlyport.c	4;"	kind:d	line:4	file:
+FTP_USER_NAME	D:\OpenPicus\GitHub\lib_fota_gprs_pro\IDE 2.10 Project Example - Flyport GPRS PRO - FOTA\FOTA example GPRS PRO\taskFlyport.c	5;"	kind:d	line:5	file:
+FWNewEnable_GprsPro	D:\OpenPicus\GitHub\lib_fota_gprs_pro\IDE 2.10 Project Example - Flyport GPRS PRO - FOTA\FOTA example GPRS PRO\Libs\ExternalLib\FWUpdate_GPRS_PRO.c	/^BOOL FWNewEnable_GprsPro()$/;"	kind:f	line:43
+FWNewEnable_GprsPro	D:\OpenPicus\GitHub\lib_fota_gprs_pro\IDE 2.10 Project Example - Flyport GPRS PRO - FOTA\FOTA example GPRS PRO\Libs\ExternalLib\Include\FWUpdate_GPRS_PRO.h	/^BOOL FWNewEnable_GprsPro();$/;"	kind:p	line:27
+FWUPDATE_GPRS_PRO_H	D:\OpenPicus\GitHub\lib_fota_gprs_pro\IDE 2.10 Project Example - Flyport GPRS PRO - FOTA\FOTA example GPRS PRO\Libs\ExternalLib\Include\FWUpdate_GPRS_PRO.h	7;"	kind:d	line:7
+FWUpdateInit_GprsPro	D:\OpenPicus\GitHub\lib_fota_gprs_pro\IDE 2.10 Project Example - Flyport GPRS PRO - FOTA\FOTA example GPRS PRO\Libs\ExternalLib\FWUpdate_GPRS_PRO.c	/^void FWUpdateInit_GprsPro()$/;"	kind:f	line:23
+FWUpdateInit_GprsPro	D:\OpenPicus\GitHub\lib_fota_gprs_pro\IDE 2.10 Project Example - Flyport GPRS PRO - FOTA\FOTA example GPRS PRO\Libs\ExternalLib\Include\FWUpdate_GPRS_PRO.h	/^void FWUpdateInit_GprsPro();$/;"	kind:p	line:25
+FW_LAST_SIZE	D:\OpenPicus\GitHub\lib_fota_gprs_pro\IDE 2.10 Project Example - Flyport GPRS PRO - FOTA\FOTA example GPRS PRO\Libs\ExternalLib\Include\FWUpdate_GPRS_PRO.h	11;"	kind:d	line:11
+FW_SIZE	D:\OpenPicus\GitHub\lib_fota_gprs_pro\IDE 2.10 Project Example - Flyport GPRS PRO - FOTA\FOTA example GPRS PRO\Libs\ExternalLib\Include\FWUpdate_GPRS_PRO.h	10;"	kind:d	line:10
+FlyportTask	D:\OpenPicus\GitHub\lib_fota_gprs_pro\IDE 2.10 Project Example - Flyport GPRS PRO - FOTA\FOTA example GPRS PRO\taskFlyport.c	/^void FlyportTask()$/;"	kind:f	line:35
+GSM_NET_UP	D:\OpenPicus\GitHub\lib_fota_gprs_pro\IDE 2.10 Project Example - Flyport GPRS PRO - FOTA\FOTA example GPRS PRO\taskFlyport.c	/^	GSM_NET_UP = 1,$/;"	kind:e	line:24	enum:__anon1	file:
+Hash	D:\OpenPicus\GitHub\lib_fota_gprs_pro\IDE 2.10 Project Example - Flyport GPRS PRO - FOTA\FOTA example GPRS PRO\Libs\ExternalLib\FWUpdate_GPRS_PRO.c	/^    HASH_SUM Hash;$/;"	kind:l	line:82
+MD5IntegrityCheck	D:\OpenPicus\GitHub\lib_fota_gprs_pro\IDE 2.10 Project Example - Flyport GPRS PRO - FOTA\FOTA example GPRS PRO\Libs\ExternalLib\FWUpdate_GPRS_PRO.c	/^BYTE MD5IntegrityCheck(BYTE* buffer, BYTE fileCount)$/;"	kind:f	line:76
+MD5IntegrityCheck	D:\OpenPicus\GitHub\lib_fota_gprs_pro\IDE 2.10 Project Example - Flyport GPRS PRO - FOTA\FOTA example GPRS PRO\Libs\ExternalLib\Include\FWUpdate_GPRS_PRO.h	/^BYTE MD5IntegrityCheck(BYTE* buffer, BYTE fileCount);$/;"	kind:p	line:26
+MD5_CALCULATION	D:\OpenPicus\GitHub\lib_fota_gprs_pro\IDE 2.10 Project Example - Flyport GPRS PRO - FOTA\FOTA example GPRS PRO\taskFlyport.c	/^	MD5_CALCULATION = 7,$/;"	kind:e	line:30	enum:__anon1	file:
+MD5_READ	D:\OpenPicus\GitHub\lib_fota_gprs_pro\IDE 2.10 Project Example - Flyport GPRS PRO - FOTA\FOTA example GPRS PRO\taskFlyport.c	/^    MD5_READ = 6,$/;"	kind:e	line:29	enum:__anon1	file:
+MD5_SIZE	D:\OpenPicus\GitHub\lib_fota_gprs_pro\IDE 2.10 Project Example - Flyport GPRS PRO - FOTA\FOTA example GPRS PRO\Libs\ExternalLib\Include\FWUpdate_GPRS_PRO.h	12;"	kind:d	line:12
+OnBusy	D:\OpenPicus\GitHub\lib_fota_gprs_pro\IDE 2.10 Project Example - Flyport GPRS PRO - FOTA\FOTA example GPRS PRO\GSM_Events.c	/^void OnBusy(char* phoneNumber)$/;"	kind:f	line:32
+OnError	D:\OpenPicus\GitHub\lib_fota_gprs_pro\IDE 2.10 Project Example - Flyport GPRS PRO - FOTA\FOTA example GPRS PRO\GSM_Events.c	/^void OnError(int error, int errorNumber)$/;"	kind:f	line:70
+OnLowPowerDisabled	D:\OpenPicus\GitHub\lib_fota_gprs_pro\IDE 2.10 Project Example - Flyport GPRS PRO - FOTA\FOTA example GPRS PRO\GSM_Events.c	/^void OnLowPowerDisabled()$/;"	kind:f	line:111
+OnNoCarrier	D:\OpenPicus\GitHub\lib_fota_gprs_pro\IDE 2.10 Project Example - Flyport GPRS PRO - FOTA\FOTA example GPRS PRO\GSM_Events.c	/^void OnNoCarrier(char* phoneNumber)$/;"	kind:f	line:20
+OnRegistration	D:\OpenPicus\GitHub\lib_fota_gprs_pro\IDE 2.10 Project Example - Flyport GPRS PRO - FOTA\FOTA example GPRS PRO\GSM_Events.c	/^void OnRegistration(BYTE Status)$/;"	kind:f	line:83
+OnRing	D:\OpenPicus\GitHub\lib_fota_gprs_pro\IDE 2.10 Project Example - Flyport GPRS PRO - FOTA\FOTA example GPRS PRO\GSM_Events.c	/^void OnRing(char* phoneNumber)$/;"	kind:f	line:8
+OnSMSReceived	D:\OpenPicus\GitHub\lib_fota_gprs_pro\IDE 2.10 Project Example - Flyport GPRS PRO - FOTA\FOTA example GPRS PRO\GSM_Events.c	/^void OnSMSReceived(BYTE memtype, int index)$/;"	kind:f	line:43
+OnSMSSentReport	D:\OpenPicus\GitHub\lib_fota_gprs_pro\IDE 2.10 Project Example - Flyport GPRS PRO - FOTA\FOTA example GPRS PRO\GSM_Events.c	/^void OnSMSSentReport(int msgreference, int msgreport)$/;"	kind:f	line:58
+PAGE_SIZE	D:\OpenPicus\GitHub\lib_fota_gprs_pro\IDE 2.10 Project Example - Flyport GPRS PRO - FOTA\FOTA example GPRS PRO\Libs\ExternalLib\Include\FWUpdate_GPRS_PRO.h	9;"	kind:d	line:9
+_FW_2_FOTA_GPRS_	D:\OpenPicus\GitHub\lib_fota_gprs_pro\IDE 2.10 Project Example - Flyport GPRS PRO - FOTA\FOTA example GPRS PRO\taskFlyport.c	11;"	kind:d	line:11	file:
+a	D:\OpenPicus\GitHub\lib_fota_gprs_pro\IDE 2.10 Project Example - Flyport GPRS PRO - FOTA\FOTA example GPRS PRO\taskFlyport.c	/^                        unsigned long int a = 0;$/;"	kind:l	line:163
+actionState	D:\OpenPicus\GitHub\lib_fota_gprs_pro\IDE 2.10 Project Example - Flyport GPRS PRO - FOTA\FOTA example GPRS PRO\taskFlyport.c	/^ActionStateMachine actionState = APN_SETUP;$/;"	kind:v	line:33
+b_read	D:\OpenPicus\GitHub\lib_fota_gprs_pro\IDE 2.10 Project Example - Flyport GPRS PRO - FOTA\FOTA example GPRS PRO\Libs\ExternalLib\FWUpdate_GPRS_PRO.c	/^    BYTE b_read[2];$/;"	kind:l	line:86
+buf	D:\OpenPicus\GitHub\lib_fota_gprs_pro\IDE 2.10 Project Example - Flyport GPRS PRO - FOTA\FOTA example GPRS PRO\GSM_Events.c	/^	char buf[20];$/;"	kind:l	line:11
+buf	D:\OpenPicus\GitHub\lib_fota_gprs_pro\IDE 2.10 Project Example - Flyport GPRS PRO - FOTA\FOTA example GPRS PRO\GSM_Events.c	/^	char buf[20];$/;"	kind:l	line:23
+buf	D:\OpenPicus\GitHub\lib_fota_gprs_pro\IDE 2.10 Project Example - Flyport GPRS PRO - FOTA\FOTA example GPRS PRO\GSM_Events.c	/^	char buf[20];$/;"	kind:l	line:35
+buf	D:\OpenPicus\GitHub\lib_fota_gprs_pro\IDE 2.10 Project Example - Flyport GPRS PRO - FOTA\FOTA example GPRS PRO\GSM_Events.c	/^	char buf[30];$/;"	kind:l	line:61
+connStatOld	D:\OpenPicus\GitHub\lib_fota_gprs_pro\IDE 2.10 Project Example - Flyport GPRS PRO - FOTA\FOTA example GPRS PRO\taskFlyport.c	/^int connStatOld = 0;$/;"	kind:v	line:18
+enable_high	D:\OpenPicus\GitHub\lib_fota_gprs_pro\IDE 2.10 Project Example - Flyport GPRS PRO - FOTA\FOTA example GPRS PRO\Libs\ExternalLib\FWUpdate_GPRS_PRO.c	/^	BOOL enable_low = FALSE, enable_high = FALSE;$/;"	kind:l	line:45
+enable_low	D:\OpenPicus\GitHub\lib_fota_gprs_pro\IDE 2.10 Project Example - Flyport GPRS PRO - FOTA\FOTA example GPRS PRO\Libs\ExternalLib\FWUpdate_GPRS_PRO.c	/^	BOOL enable_low = FALSE, enable_high = FALSE;$/;"	kind:l	line:45
+f_ind	D:\OpenPicus\GitHub\lib_fota_gprs_pro\IDE 2.10 Project Example - Flyport GPRS PRO - FOTA\FOTA example GPRS PRO\Libs\ExternalLib\FWUpdate_GPRS_PRO.c	/^    long unsigned int f_ind = 0;$/;"	kind:l	line:85
+fileCnt	D:\OpenPicus\GitHub\lib_fota_gprs_pro\IDE 2.10 Project Example - Flyport GPRS PRO - FOTA\FOTA example GPRS PRO\Libs\ExternalLib\FWUpdate_GPRS_PRO.c	/^BYTE fileCnt = 0;$/;"	kind:v	line:9
+fileDataEds	D:\OpenPicus\GitHub\lib_fota_gprs_pro\IDE 2.10 Project Example - Flyport GPRS PRO - FOTA\FOTA example GPRS PRO\Libs\ExternalLib\FWUpdate_GPRS_PRO.c	/^__eds__ BYTE fileDataEds[EDS_FILE_SIZE+1] __attribute__((space(eds)));$/;"	kind:v	line:4
+fileEdsPointer	D:\OpenPicus\GitHub\lib_fota_gprs_pro\IDE 2.10 Project Example - Flyport GPRS PRO - FOTA\FOTA example GPRS PRO\taskFlyport.c	/^                    __eds__ BYTE* fileEdsPointer = fileDataEds;$/;"	kind:l	line:142
+fileName	D:\OpenPicus\GitHub\lib_fota_gprs_pro\IDE 2.10 Project Example - Flyport GPRS PRO - FOTA\FOTA example GPRS PRO\Libs\ExternalLib\FWUpdate_GPRS_PRO.c	/^char fileName[50];$/;"	kind:v	line:8
+fl_ind	D:\OpenPicus\GitHub\lib_fota_gprs_pro\IDE 2.10 Project Example - Flyport GPRS PRO - FOTA\FOTA example GPRS PRO\taskFlyport.c	/^						unsigned long int fl_ind;$/;"	kind:l	line:277
+flashDataW	D:\OpenPicus\GitHub\lib_fota_gprs_pro\IDE 2.10 Project Example - Flyport GPRS PRO - FOTA\FOTA example GPRS PRO\Libs\ExternalLib\FWUpdate_GPRS_PRO.c	/^BYTE flashDataW[PAGE_SIZE+1];$/;"	kind:v	line:3
+flash_ind	D:\OpenPicus\GitHub\lib_fota_gprs_pro\IDE 2.10 Project Example - Flyport GPRS PRO - FOTA\FOTA example GPRS PRO\Libs\ExternalLib\FWUpdate_GPRS_PRO.c	/^unsigned long int flash_ind = FLASH_START_ADD;$/;"	kind:v	line:6
+fread	D:\OpenPicus\GitHub\lib_fota_gprs_pro\IDE 2.10 Project Example - Flyport GPRS PRO - FOTA\FOTA example GPRS PRO\Libs\ExternalLib\FWUpdate_GPRS_PRO.c	/^	BYTE i,fread[1];$/;"	kind:l	line:46
+ftpSocket	D:\OpenPicus\GitHub\lib_fota_gprs_pro\IDE 2.10 Project Example - Flyport GPRS PRO - FOTA\FOTA example GPRS PRO\Libs\ExternalLib\FWUpdate_GPRS_PRO.c	/^FTP_SOCKET ftpSocket;$/;"	kind:v	line:11
+i	D:\OpenPicus\GitHub\lib_fota_gprs_pro\IDE 2.10 Project Example - Flyport GPRS PRO - FOTA\FOTA example GPRS PRO\Libs\ExternalLib\FWUpdate_GPRS_PRO.c	/^	BYTE i,fread[1];$/;"	kind:l	line:46
+i	D:\OpenPicus\GitHub\lib_fota_gprs_pro\IDE 2.10 Project Example - Flyport GPRS PRO - FOTA\FOTA example GPRS PRO\Libs\ExternalLib\FWUpdate_GPRS_PRO.c	/^    BYTE i;$/;"	kind:l	line:103
+i	D:\OpenPicus\GitHub\lib_fota_gprs_pro\IDE 2.10 Project Example - Flyport GPRS PRO - FOTA\FOTA example GPRS PRO\taskFlyport.c	/^int i = 0;$/;"	kind:v	line:13
+inBuff	D:\OpenPicus\GitHub\lib_fota_gprs_pro\IDE 2.10 Project Example - Flyport GPRS PRO - FOTA\FOTA example GPRS PRO\taskFlyport.c	/^char inBuff[250];$/;"	kind:v	line:14
+md5_ind	D:\OpenPicus\GitHub\lib_fota_gprs_pro\IDE 2.10 Project Example - Flyport GPRS PRO - FOTA\FOTA example GPRS PRO\Libs\ExternalLib\FWUpdate_GPRS_PRO.c	/^    unsigned long int md5_ind = FLASH_START_ADD;$/;"	kind:l	line:87
+md5fileContent	D:\OpenPicus\GitHub\lib_fota_gprs_pro\IDE 2.10 Project Example - Flyport GPRS PRO - FOTA\FOTA example GPRS PRO\Libs\ExternalLib\FWUpdate_GPRS_PRO.c	/^BYTE md5fileContent[MD5_SIZE+1];$/;"	kind:v	line:7
+mem_ind	D:\OpenPicus\GitHub\lib_fota_gprs_pro\IDE 2.10 Project Example - Flyport GPRS PRO - FOTA\FOTA example GPRS PRO\Libs\ExternalLib\FWUpdate_GPRS_PRO.c	/^    unsigned long int mem_ind;$/;"	kind:l	line:32
+myHash	D:\OpenPicus\GitHub\lib_fota_gprs_pro\IDE 2.10 Project Example - Flyport GPRS PRO - FOTA\FOTA example GPRS PRO\Libs\ExternalLib\FWUpdate_GPRS_PRO.c	/^HASH_SUM myHash;$/;"	kind:v	line:10
+newConnMsg	D:\OpenPicus\GitHub\lib_fota_gprs_pro\IDE 2.10 Project Example - Flyport GPRS PRO - FOTA\FOTA example GPRS PRO\taskFlyport.c	/^BOOL newConnMsg = TRUE;$/;"	kind:v	line:17
+numErr	D:\OpenPicus\GitHub\lib_fota_gprs_pro\IDE 2.10 Project Example - Flyport GPRS PRO - FOTA\FOTA example GPRS PRO\GSM_Events.c	/^	char numErr[10];$/;"	kind:l	line:73
+operationRep	D:\OpenPicus\GitHub\lib_fota_gprs_pro\IDE 2.10 Project Example - Flyport GPRS PRO - FOTA\FOTA example GPRS PRO\Libs\ExternalLib\FWUpdate_GPRS_PRO.c	/^    BYTE operationRep = 0;$/;"	kind:l	line:78
+readSize	D:\OpenPicus\GitHub\lib_fota_gprs_pro\IDE 2.10 Project Example - Flyport GPRS PRO - FOTA\FOTA example GPRS PRO\taskFlyport.c	/^unsigned long int readSize;$/;"	kind:v	line:20
+remainingBytes	D:\OpenPicus\GitHub\lib_fota_gprs_pro\IDE 2.10 Project Example - Flyport GPRS PRO - FOTA\FOTA example GPRS PRO\taskFlyport.c	/^						long int remainingBytes = readSize - MD5_SIZE;$/;"	kind:l	line:166
+resmd	D:\OpenPicus\GitHub\lib_fota_gprs_pro\IDE 2.10 Project Example - Flyport GPRS PRO - FOTA\FOTA example GPRS PRO\Libs\ExternalLib\FWUpdate_GPRS_PRO.c	/^    BYTE resmd[16];$/;"	kind:l	line:81
+rr	D:\OpenPicus\GitHub\lib_fota_gprs_pro\IDE 2.10 Project Example - Flyport GPRS PRO - FOTA\FOTA example GPRS PRO\Libs\ExternalLib\FWUpdate_GPRS_PRO.c	/^    char rr[3];$/;"	kind:l	line:104
+smsRec	D:\OpenPicus\GitHub\lib_fota_gprs_pro\IDE 2.10 Project Example - Flyport GPRS PRO - FOTA\FOTA example GPRS PRO\GSM_Events.c	/^	char smsRec[7];$/;"	kind:l	line:52
+stopSize	D:\OpenPicus\GitHub\lib_fota_gprs_pro\IDE 2.10 Project Example - Flyport GPRS PRO - FOTA\FOTA example GPRS PRO\Libs\ExternalLib\FWUpdate_GPRS_PRO.c	/^	unsigned long int stopSize = FW_SIZE;$/;"	kind:l	line:89
+tickRef	D:\OpenPicus\GitHub\lib_fota_gprs_pro\IDE 2.10 Project Example - Flyport GPRS PRO - FOTA\FOTA example GPRS PRO\taskFlyport.c	/^DWORD tickRef;$/;"	kind:v	line:19
+toExecute	D:\OpenPicus\GitHub\lib_fota_gprs_pro\IDE 2.10 Project Example - Flyport GPRS PRO - FOTA\FOTA example GPRS PRO\taskFlyport.c	/^BOOL toExecute = FALSE;$/;"	kind:v	line:16
+toProcess	D:\OpenPicus\GitHub\lib_fota_gprs_pro\IDE 2.10 Project Example - Flyport GPRS PRO - FOTA\FOTA example GPRS PRO\taskFlyport.c	/^BOOL toProcess = FALSE;$/;"	kind:v	line:15
