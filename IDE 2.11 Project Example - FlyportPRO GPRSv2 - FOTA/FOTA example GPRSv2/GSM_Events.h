@@ -1,0 +1,14 @@
+#include "GenericTypeDefs.h"
+#include "HWlib.h"
+#include "SARAlib.h"
+
+void OnRing(char* phoneNumber);
+void OnNoCarrier(char* phoneNumber);
+void OnBusy(char* phoneNumber);
+void OnSMSReceived(BYTE memtype, int index);
+void OnSMSSentReport(int msgreference, int msgreport);
+void OnError(int error, int errorNumber);
+void OnRegistration(BYTE Status);
+void OnLowPowerDisabled();
+
+void OnSocketDisconnect(BYTE sockNum);
