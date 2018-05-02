@@ -274,10 +274,10 @@ void FlyportTask()
 				case FLASH_ERASE_SECTORS:
 					if(fileCnt < 9)
 					{
-						unsigned long int fl_ind;
+						DWORD fl_ind;
 						sprintf(inBuff, "Erasing flash sectors related to file %s...", fileName);
 						_dbgwrite(inBuff);
-						for (fl_ind = FLASH_START_ADD + (FW_SIZE*fileCnt); fl_ind < FLASH_START_ADD + (FW_SIZE*(fileCnt+1)); fl_ind += PAGE_SIZE)
+						for (fl_ind = FLASH_START_ADD + ((DWORD)FW_SIZE*(DWORD)fileCnt); fl_ind < FLASH_START_ADD + ((DWORD)FW_SIZE*((DWORD)fileCnt+1)); fl_ind += (DWORD)PAGE_SIZE)
 						{
 							vTaskSuspendAll();
 							SPIFlashEraseSector(fl_ind);
