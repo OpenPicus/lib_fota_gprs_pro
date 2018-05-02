@@ -85,7 +85,7 @@ BYTE MD5IntegrityCheck(BYTE* buffer, BYTE fileCount)
     long unsigned int f_ind = 0;
     BYTE b_read[2];
     unsigned long int md5_ind = FLASH_START_ADD;
-    md5_ind += FW_SIZE*(unsigned long int)(fileCnt);
+    md5_ind += FW_SIZE*(unsigned long int)(fileCount);
 	unsigned long int stopSize = FW_SIZE;
 	if(fileCount == 8) // Last file...
 	{
